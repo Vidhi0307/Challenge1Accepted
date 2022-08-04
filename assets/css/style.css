@@ -23,6 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/*styling properties for navigation bar */
 
 nav {
     padding-top: 15px;
@@ -48,7 +49,7 @@ nav a {
      font-size: 20px;
 }
 
-
+/*Hero image properties */
 
 figure img{
     height: 800px;
@@ -58,6 +59,7 @@ figure img{
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
@@ -69,7 +71,7 @@ figure img{
     margin-left: 25px;
 }
 
-
+/*styling properties for main content section*/
 .content {
     width: 75%;
     display: inline-block;
@@ -94,6 +96,7 @@ font-size: 36px;
     background-color: #0072bb;
     color: #ffffff;
 }
+/*styling properties for Benefits section on the pages*/
 
 .benefits {
     margin-right: 20px;
@@ -121,7 +124,7 @@ font-size: 36px;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*styling for footer*/
 footer {
     padding: 30px;
     clear: both;
