@@ -34,6 +34,12 @@ CSS file has been changed:
 -selector calling methods changed according to the changes made in html.
 -Codelines reduced from 200 to 133 making it more efficient and readable.
 
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
+
 
 ## Credits
 
